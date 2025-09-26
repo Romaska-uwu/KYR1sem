@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="task2.xsl"?>
+
+<students>
+
+  <student>
+    <name>Адамович</name>
+    <grade>10</grade>
+  </student>
+
+  <student>
+    <name>Шманая</name>
+    <grade>10</grade>
+  </student>
+
+  <student>
+    <name>Шидловская</name>
+    <grade>8</grade>
+  </student>
+
+  <student>
+    <name>Березка</name>
+    <grade>7</grade>
+  </student>
+
+  <student>
+    <name>Богодяж</name>
+    <grade>3</grade>
+  </student>
+
+  <student>
+    <name>Ярошинский</name>
+    <grade>2</grade>
+  </student>
+
+  <student>
+    <name>Курленя</name>
+    <grade>3</grade>
+  </student>
+</students>

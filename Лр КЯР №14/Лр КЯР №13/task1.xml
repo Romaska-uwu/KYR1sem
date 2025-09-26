@@ -1,0 +1,16 @@
+<?xml  version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="task1.xsl"?>
+<books>
+    <book>
+        <author>Соман Чайнани</author>
+        <name>Школа Добра и Зла</name>
+    </book>
+    <book>
+        <author>А́нджей Сапко́вский</author>
+        <name>Ведьмак</name>
+    </book>
+    <book>
+        <author>Говард Филлипс Лавкрат </author>
+        <name>Ктулху</name>
+    </book>
+</books>

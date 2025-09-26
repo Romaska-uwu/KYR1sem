@@ -1,0 +1,21 @@
+img{
+    width: 20%;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display:inline;
+}
+a{
+    display: inline-block;
+}
+div:not(div[class="container"], div[class="box"]){
+    margin:10px;
+    border: 2px solid rgb(58, 160, 45);
+}
+.ten.columns{
+    padding: 48px;
+    text-align: center;
+    width: 757px;
+}

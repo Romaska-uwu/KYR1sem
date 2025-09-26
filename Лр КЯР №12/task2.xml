@@ -1,0 +1,34 @@
+<?xml  version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE books [
+<!ELEMENT books (head, book)>
+<!ELEMENT head (hauthor, hname)>
+<!ELEMENT book (author, name)>
+<!ELEMENT head (#PCDATA)>
+<!ELEMENT hauthor (#PCDATA)>
+<!ELEMENT hname (#PCDATA)>
+<!ELEMENT book (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ENTITY t "-">
+]>
+<books>
+    <head>
+        <hauthor>&t; Автор &t;</hauthor>
+        <hname>&t; Книга &t;</hname>
+    </head>
+   
+    <book>
+        <author>Соман Чайнани</author>
+        <name>Школа Добра и Зла</name>
+    </book>
+    <book>
+        <author>Говард Филлипс Лавкрат </author>
+        <name>Ктулху</name>
+    </book>
+    <book>
+        <author>А́нджей Сапко́вский</author>
+        <name>Ведьмак</name>
+    </book>
+    
+</books>
